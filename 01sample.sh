@@ -3,5 +3,8 @@ echo "how are you"
 echo "Iam good "
 echo "extra permissions"
 
-sudo su - root
+sudo su -
+
+sleep 20
+
 reboot
