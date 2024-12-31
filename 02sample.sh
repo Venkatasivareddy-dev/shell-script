@@ -1,3 +1,6 @@
 #!/bin/bash
-echo "second cript"
-echo " i need to learm shelll scripting"
+echo "Siva :: Hi Robert"
+echo "Robert :: Hello siva"
+echo "Siva :: How are you doing"
+echo "Robert :: iam doing Good . How are you"
+echo "siva :: Iam also good ..Thanks"
